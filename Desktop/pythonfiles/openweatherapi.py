@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = '3a8d3549ed1a294631414991e410f04f'
+API_KEY = {"API_KEY"}
 
 city = input("Hava durumunu öğrenmek istediğiniz şehri girin: ")
 country = input("Ülkenin kodunu girin (Örneğin TR, US, DE): ")
